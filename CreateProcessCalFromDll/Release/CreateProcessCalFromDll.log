@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  CreateProcessCallFromDll.cpp
+  dllmain.cpp
+  Generating code
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CreateProcessCalFromDll.vcxproj -> C:\Users\jaya.saxena\Source\repos\CreateProcessCalFromDll\Release\CreateProcessCallFromDll.dll
